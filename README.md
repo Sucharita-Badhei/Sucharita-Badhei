@@ -21,4 +21,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Sucharita-Badhei&show_icons=true&locale=en" alt="Sucharita-Badhei" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Sucharita-Badhei&" alt="sucharitabadhei" /></p>
+
