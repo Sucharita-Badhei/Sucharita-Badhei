@@ -1,6 +1,6 @@
 [![MasterHead](https://media.licdn.com/dms/image/D5622AQHDlxDxZiam1g/feedshare-shrink_800/0/1697057502299?e=2147483647&v=beta&t=fWO4V4X3Uxtkp3z2quX_syw9B9LogtrRU1ywZu9H3z0)]
 <h1 align="center">Hi 👋, I'm Sucharita Badhei</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Java developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/102985224/211582827-8fd748d6-9181-4c5f-a620-76168b861a4d.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sucharitabadhei&label=Profile%20views&color=0e75b6&style=flat" alt="sucharitabadhei" /> </p>
